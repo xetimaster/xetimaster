@@ -30,8 +30,6 @@ Here are some ideas to get you started:
  
  🌱 I’m currently learning **google ads, digital marketing**
 
-💬 contact me [here](https://chat.google.com/room/AAAACxM9qMk?cls=7)**
-
 ⚡ Fun fact **taste is a feeling and i love taste of £ **
 
  </div>
