@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **portfolio**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **google ads, digital marketing**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/xetimaster/xetimaster/issues)**
+💬 contact me [here](https://chat.google.com/room/AAAACxM9qMk?cls=7)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **taste is a feeling and i love taste of £ **
 
  </div>
  
