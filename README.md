@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://www.icegif.com/wp-content/uploads/2023/11/icegif-479.gif" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate student from uk </h3>
 
 <br/>
 
